@@ -58,7 +58,7 @@ body {
   }
 
   .animate-typewriter {
-    animation: typewriter 8s steps(60) infinite;
+    animation: typewriter 8s steps(26) infinite;
     width: 100%;
     display: inline-block;
     white-space: nowrap;
