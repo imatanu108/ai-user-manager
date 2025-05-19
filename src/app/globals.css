@@ -37,7 +37,7 @@ body {
       width: 100%;
     }
     70% {
-      width: 100%; /* Hold full text for 3s (from 40% to 70%) */
+      width: 100%;
     }
     96% {
       width: 0;
